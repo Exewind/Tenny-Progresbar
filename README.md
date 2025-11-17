@@ -7,8 +7,6 @@
 
 [![FiveM](https://img.shields.io/badge/FiveM-Ready-green.svg)](https://fivem.net/)
 
-![Preview](https://via.placeholder.com/800x400/1a1a1a/00ff00?text=Tenny+Progresbar+Preview)
-
 </div>
 
 ---
